@@ -1,18 +1,60 @@
-# 🌐 Coordinate Location Viewer
+# 📍 Coordinate Location Finder
 
-This is a lightweight, mobile-friendly web application that allows users to input latitude and longitude values and instantly view the location on an interactive Leaflet map.
+A modern geolocation web application that helps users find and share their live location using browser geolocation and map integration.
 
-## 🚀 Features
+This repository contains two different versions of the project:
 
-- 📍 Enter latitude and longitude to locate any point on Earth
-- 🗺️ Interactive, zoomable Leaflet map
-- ✅ Clean, modern, responsive UI
-- 💡 Built with HTML, CSS, and vanilla JavaScript (no frameworks)
-- 📱 Mobile-friendly design with smooth styling
+* **V1** → Basic version of the Location Finder
+* **V2** → Enhanced version with improved UI, features, and better user experience
 
-## 🛠️ Technologies Used
+---
 
-- HTML5
-- CSS3 (with responsive design)
-- JavaScript (vanilla)
-- [Leaflet.js](https://leafletjs.com/) for interactive maps
+# 🚀 Features
+
+## ✅ Common Features
+
+* Get current live location
+* Display latitude and longitude
+* Browser geolocation support
+* Responsive design
+* Interactive map integration
+* Clean and user-friendly interface
+
+## 🌟 V2 Improvements
+
+* Improved UI/UX
+* Better responsiveness
+* Enhanced location accuracy handling
+* Additional styling and animations
+* Better code structure and optimization
+
+---
+
+# 📂 Project Structure
+
+```bash
+Location-finder/
+│
+├── V1/   # Initial version of the project
+├── V2/   # Updated and improved version
+└── README.md
+```
+
+---
+
+# 🛠️ Technologies Used
+
+## Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+## APIs & Browser Features
+
+* Geolocation API
+* Maps Integration
+
+---
+
+If you like this project, give it a ⭐ on GitHub.
